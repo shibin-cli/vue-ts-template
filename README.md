@@ -11,7 +11,6 @@ Recommended editor configuration
 ```json
 // .vscode/settings.json
 {
-    "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
